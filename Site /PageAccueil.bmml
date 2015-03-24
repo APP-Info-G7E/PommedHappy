@@ -1,0 +1,26 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1170" measuredH="610" mockupW="721" mockupH="598">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="449" y="12" w="721" h="598" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//PommedHappy.com/Arcticles/</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="541" y="86" w="629" h="56" measuredW="466" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accueil%2C%20Arcticles%2C%20Annonces%2C%20Forum%2C%20Connexion%2C%20Inscriptions</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="652" y="541" w="-1" h="-1" measuredW="315" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accueil%20-%20Aide/FAQ%20-%20A%20Propos%20-%20Contact%20-%20Reglement</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="453" y="86" w="88" h="73" measuredW="511" measuredH="731" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./Logo/Finifnifnifn.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
